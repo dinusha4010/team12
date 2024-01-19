@@ -12,20 +12,16 @@ font-size: 20px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
-color:FFFFFF;
+color:#FFFFFF;
 
 }
 
 .dropdown-item{
 
     background-color: rgba(28, 27, 27, 0.90);
-    color:FFFFFF;
+    color:#FFFFFF;
     font-family: 'Allan', serif;
 font-size: 20px;
 
 }
 
-.navbar{
-
-    text-align: center;
-}
