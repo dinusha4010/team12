@@ -1,9 +1,9 @@
-body{
+body ,.navbar-light{
 
     background: rgba(28, 27, 27, 0.90);
 }
 
-header {
+.nav-link  {
 
 
 border-left: 21px;
@@ -13,4 +13,19 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 color:white;
+
+}
+
+.dropdown-item{
+
+    background-color: rgba(28, 27, 27, 0.90);
+    color:white;
+    font-family: 'Allan', serif;
+font-size: 20px;
+
+}
+
+.navbar{
+
+    text-align: center;
 }
