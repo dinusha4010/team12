@@ -171,3 +171,31 @@ h3{
 
     color: #CCE91E !important;
   }
+  .scw{
+
+    width: 924px;
+  }
+
+  @media only screen and (max-width: 480px) {
+    .scw{
+
+      width: 350px;
+    }
+
+    .cards2{
+      width: 350px;
+      margin: 8px auto;
+      display: grid;
+      grid-template-columns: auto auto auto;
+      gap:8px;
+      
+  }
+  .cards3{
+    width: 350px;
+    margin: 8px auto;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap:8px;
+  
+  }
+}
