@@ -198,4 +198,18 @@ h3{
     gap:8px;
   
   }
+  h1{
+    font-size: 36px;
+  }
+
+  
+.imageh{
+  
+  width: 10;
+}
+}
+
+.imageh{
+  height: 400;
+  width: 170;
 }
