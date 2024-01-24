@@ -205,11 +205,21 @@ h3{
   
 .imageh{
   
-  width: 10;
+  width: 10px;
 }
 }
 
 .imageh{
-  height: 400;
-  width: 170;
+  height: 400px;
+  width: 170px;
+
+
+
+}
+
+.image {
+  background-image: url("https://content.codecademy.com/courses/web-101/unit-4/htmlcss1-img_soccer.jpeg");
+  background-size: cover;
+  background-position: center;
+  height: 300px;
 }
