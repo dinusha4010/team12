@@ -186,7 +186,7 @@ h3{
       width: 350px;
       margin: 8px auto;
       display: grid;
-      grid-template-columns: auto auto auto;
+      grid-template-columns: 1fr;
       gap:8px;
       
   }
@@ -194,7 +194,7 @@ h3{
     width: 350px;
     margin: 8px auto;
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: 1fr;
     gap:8px;
   
   }
